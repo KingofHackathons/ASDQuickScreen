@@ -1,6 +1,5 @@
 # ASDQuickScreen
-
-**Why ASDQuickScreen Should Win?
+## Why ASDQuickScreen Should Win?
 
 ASDQuickScreen is a pioneering project that excels in several categories, making it a strong contender for the following awards:
 
